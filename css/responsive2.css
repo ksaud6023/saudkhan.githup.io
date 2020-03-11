@@ -1,0 +1,149 @@
+
+
+@media(min-width: 992px) and (max-width: 1030px){
+	.navbar-light .navbar-nav .nav-link{
+		padding-right: 33px;
+	}
+	 .box20{
+	 	margin-bottom: 15px;
+	 }
+}
+
+@media(min-width: 300px) and (max-width: 991px){
+	.navbar-light .navbar-nav .nav-link{
+		padding-right: 0px;
+	}
+	.nav-item{
+		margin-bottom: 14px;
+	}
+	 .box20{
+	 	margin-bottom: 15px;
+	 }
+}
+@media(min-width: 992px) and (max-width: 1199px){
+	.col-detail h2{
+		font-size: 19px;
+	}
+}
+@media only screen and (max-width:990px){.box16{margin-bottom:30px}
+}
+
+@media (min-width: 320px) and (max-width: 411px){
+	.text-box h2{
+		font-size: 16px;
+	}
+	.mb-5, .my-5{
+		margin-bottom: 5px!important;
+	}
+	.text-box p{
+		font-size: 10px;
+	}
+	.mb-3, .my-3{
+		margin-bottom: 5px !important;
+	}
+	.text-box .sli{
+		padding: 3px 30px;
+	}
+	.carousel-indicators{
+		top: 83%;
+	}
+	 .box20{
+	 	margin-bottom: 15px;
+	 }
+}
+
+@media(max-width: 320px){
+	 .box16 .box-content{
+	 	padding: 25px;
+	 }
+	 .box16 .post{
+	 	display: none;
+	 }
+	 .pd-none{
+	 	padding-right: 15px;
+	 	padding-left: 15px;
+	 }
+	 .box20{
+	 	margin-bottom: 15px;
+	 }
+	 .browse-button{
+	 	left: 45px;
+	 }
+}
+
+@media(min-width: 411px) and (max-width: 575px){
+	.box16 .box-content{
+		padding: 14px;
+	}
+	.box16 .title{
+		margin-bottom: 0px;
+	}
+	.box16 .post{
+		padding: 24px;
+	}
+	 .box20{
+	 	margin-bottom: 15px;
+	 }
+
+}
+@media only screen and (max-width:990px){
+    .box20{margin-bottom:30px}
+    .box20 .title{font-size:16px}
+     .box20{
+	 	margin-bottom: 15px;
+	 }
+}
+@media only screen and (max-width:479px){.box20 .title{font-size:16px}
+   .box20{
+	 	margin-bottom: 15px;
+	 }
+}
+
+/*@media(max-width: 411px){
+	.browse-button{
+	 	left: 91px;
+	 }*/
+}
+@media(max-width: 575px){
+	.browse-button{
+	 	left: 173px;
+	 }
+}
+@media(max-width: 300px){
+	.browse-button{
+	 	left: 35px;
+	 }
+}
+
+@media(min-width: 300px) and (max-width: 767px){
+	.custum{
+		position: relative;
+		top: 0;
+		box-shadow: none;
+	}
+}
+
+@media(min-width: 768px) and (max-width: 992px){
+	.box16 .title{
+		margin-bottom: 0px;
+		font-size: 18px;
+	}
+	.box16 .box-content{
+		margin-bottom: 15px;
+		padding: 11px;
+	}
+	.box20 .title{
+		font-size: 10px;
+	}
+	.circle-icon{
+		width: 50px;
+		height: 50px;
+		line-height: 20px;
+	}
+	.box20 .button{
+		padding: 1px 3px;
+	}
+	.box16 .post{
+		font-size: 12px;
+	}
+}
